@@ -1,3 +1,3 @@
-<?php
 phpinfo();
 haha
+11111
